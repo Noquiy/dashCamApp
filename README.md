@@ -1,2 +1,2 @@
-# dashCamApp
-Open-source android application to simulate dash cam behaviour. Uses Android 7.0 API.
+# Dash camera android application
+Open-source android application to simulate dash camera behaviour. Uses Android 7.0+ SDK.
